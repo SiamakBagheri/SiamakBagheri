@@ -7,7 +7,7 @@
 
 
 ```
-function Life(){
+const Life = () => {
   while(alive)
   {
     eat();
